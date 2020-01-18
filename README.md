@@ -1,3 +1,4 @@
 ## Thoughtful Approach to Investing using Pandas
 
-![wallstreet](<a id='JEVYDyaISRdhkPjwCnJ8Jg' class='gie-single' href='http://www.gettyimages.com/detail/609725528' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'JEVYDyaISRdhkPjwCnJ8Jg',sig:'zBLGcTNcZxrk4DtRZ81DUvcNuh8XO-mXJlYz85NT_oQ=',w:'509px',h:'339px',items:'609725528',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>)
+![wallstreet](wallstreet.jpg)
+
